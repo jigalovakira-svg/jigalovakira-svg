@@ -1,114 +1,67 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Unique_GitHub_Profiles-Inspiration-2563eb?style=for-the-badge&labelColor=f0f4f8" alt="Unique GitHub Profiles"/>
+  <img src="https://capsule-render.vercel.app/api?text=Привет!🕹️&animation=fadeIn&type=waving&color=gradient&height=100&quot; alt="Animated Header"/>
 </p>
 
+<!-- Typing SVG -->
 <p align="center">
-  <strong>A curated collection of inspiring GitHub profile READMEs.</strong><br/>
-  Find ideas, get inspired, and showcase your own.
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kira's+Github+Profile.." alt="Typing SVG"/>
 </p>
 
+<!-- Social Media Badges -->
 <p align="center">
-  <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/stargazers"><img src="https://img.shields.io/github/stars/Jaidevstudio/Unique-Github-Profiles?style=for-the-badge&color=6d28d9&labelColor=f0f4f8" alt="Stars"/></a>
-  <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/network/members"><img src="https://img.shields.io/github/forks/Jaidevstudio/Unique-Github-Profiles?style=for-the-badge&color=2563eb&labelColor=f0f4f8" alt="Forks"/></a>
-  <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/issues"><img src="https://img.shields.io/github/issues/Jaidevstudio/Unique-Github-Profiles?style=for-the-badge&color=0891b2&labelColor=f0f4f8" alt="Issues"/></a>
-  <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/contributors"><img src="https://img.shields.io/github/contributors/Jaidevstudio/Unique-Github-Profiles?style=for-the-badge&color=059669&labelColor=f0f4f8" alt="Contributors"/></a>
+  <a href="https://twitter.com/Darya_"&gt;
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&quot; alt="Twitter">
+  </a>
+  <a href="https://in.linkedin.com/in/darya"&gt;
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&quot; alt="LinkedIn">
+  </a>
+  <a href="mailto:jigalova.Kira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; alt="Gmail">
+  </a>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JigalovaKira&style=flat-square&quot; alt="Profile Views"/>
 </p>
 
 ---
 
-## What is This?
-
-A collection of GitHub user profiles with creative, well-designed README files. Use these as **inspiration** for your own profile, or **add yours** to the collection.
-
-Your GitHub profile is the first thing potential employers, collaborators, and the open-source community see. Make it count.
-
----
-
-## How to Add Your Profile
-
-### Step 1: Create an Issue
-
-Open an [issue](https://github.com/Jaidevstudio/Unique-Github-Profiles/issues/new) with your name as the title. Include a screenshot of your profile.
-
-### Step 2: Fork and Edit
-
-Fork this repo and add your entry to the end of `data.json`:
-
-```json
-{
-  "name": "Your Name",
-  "githubUsername": "YourUsername",
-  "imageUrl": "https://your-screenshot-url.png",
-  "issueNumber": 123
-}
-```
-
-### Step 3: Submit a PR
-
-Create a pull request with the title `add YourUsername` and include `resolves #issueNumber` in the description.
-
-**Important:** Do not edit anything below `<!--START_SECTION:data-section-->` in the README. Our [GitHub Action](https://github.com/Jaidevstudio/gh-action-community) handles that automatically.
-
----
-
-## Categories
-
-Looking for something specific? Here are common profile styles:
-
-| Style | Description |
-|:------|:------------|
-| **Minimalist** | Clean, simple, focused on essentials |
-| **Animated** | Uses GIFs, typing effects, or animated SVGs |
-| **Data-Driven** | GitHub stats, contribution graphs, language breakdowns |
-| **Creative** | Custom art, unique layouts, interactive elements |
-| **Professional** | Job-focused, portfolio-style, with experience highlights |
-| **Fun** | Games, jokes, memes, personality-driven |
-
----
-
-## Tips for a Great Profile
-
-1. **Keep it scannable** -- Visitors decide in seconds whether to keep reading
-2. **Show your work** -- Pin your best repositories
-3. **Add context** -- What do you build? What are you learning?
-4. **Use visuals** -- Badges, stats cards, and images break up text
-5. **Stay current** -- Update your profile as you grow
-
-### Useful Tools
-
-| Tool | What It Does |
-|:-----|:-------------|
-| [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) | Dynamic stats cards |
-| [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) | Achievement trophies |
-| [Capsule Render](https://github.com/kyechan99/capsule-render) | Dynamic header/footer images |
-| [Shields.io](https://shields.io/) | Custom badges |
-| [Simple Icons](https://simpleicons.org/) | Tech stack icons |
-| [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Animated typing effect |
-
----
-
-## Contributing
-
-Beyond adding your profile, you can also contribute by:
-
-- **Improving the gallery** -- Better categorization, search, or display
-- **Updating stale entries** -- Fix broken image links
-- **Building a web viewer** -- Create a GitHub Pages site to browse profiles visually
-- **Adding tools** -- Suggest or build new profile enhancement tools
-
----
-
-## Profiles
-
-<!--START_SECTION:data-section-->
-*Profiles are auto-generated from `data.json` by our GitHub Action.*
-<!--END_SECTION:data-section-->
-
----
-
+<!-- About Me Header -->
 <p align="center">
-  <a href="https://github.com/Jaidevstudio/support/issues/new?template=invitation.yml"><img src="https://img.shields.io/badge/Join_Jaidevstudio-Apply-6d28d9?style=for-the-badge&labelColor=f0f4f8" alt="Join"/></a>
-  <a href="https://discord.gg/wXFWgsAuzR"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=f0f4f8" alt="Discord"/></a>
+  <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white&quot; alt="About Me">
 </p>
 
-<p align="center"><sub>Part of the Jaidevstudio open-source community</sub></p>
+## 🙋‍♂️ Обо мне
+
+- 🚀 **Обчение:** Уфимский колледж радиоэлектроники теллекоммуникаций и безопасности — Программист (2020 - 2024)
+**Уфимский государственный нефтяной технический университет — Специальность: прикладная информатика (2024 - 2028)
+
+---
+
+<!-- Projects Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Projects-orange?style=for-the-badge&quot; alt="Projects">
+</p>
+
+### 💡 **Опыт работы:**
+1. **Опыт работы:** 
+ООО УК "ТрансТехСервис" — Ведущий специалист по кредитованию и страхованию (05.12.2025 - настоящее время)
+АО "Инфотехник.Ум" — Преподаватель (04.09.2025 - 04.12.2025)
+ГБПОУ УКРТБ — Преподаватель (04.09.2023 - 03.09.2025)
+
+<!-- Skills Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🛠️-Skills-blue?style=for-the-badge&quot; alt="Skills">
+</p>
+
+### 🛠️ **Skills**
+- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- **Tools & Platforms:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Cloud & Deployment:** ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+### 📊 **GitHub
