@@ -6,7 +6,6 @@
   <strong>A curated collection of inspiring GitHub profile READMEs.</strong><br/>
   Find ideas, get inspired, and showcase your own.
 </p>
-
 <p align="center">
   <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/stargazers"><img src="https://img.shields.io/github/stars/Jaidevstudio/Unique-Github-Profiles?style=for-the-badge&color=6d28d9&labelColor=f0f4f8" alt="Stars"/></a>
   <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/network/members"><img src="https://img.shields.io/github/forks/Jaidevstudio/Unique-Github-Profiles?style=for-the-badge&color=2563eb&labelColor=f0f4f8" alt="Forks"/></a>
